@@ -17033,224 +17033,416 @@
      "name": "Border panel border 000",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-000.png",
-     "size": 159
+     "size": 159,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-001",
      "name": "Border panel border 001",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-001.png",
-     "size": 144
+     "size": 144,
+     "border": [
+      8,
+      8,
+      8,
+      8
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-002",
      "name": "Border panel border 002",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-002.png",
-     "size": 174
+     "size": 174,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-003",
      "name": "Border panel border 003",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-003.png",
-     "size": 162
+     "size": 162,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-004",
      "name": "Border panel border 004",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-004.png",
-     "size": 139
+     "size": 139,
+     "border": [
+      8,
+      8,
+      8,
+      8
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-005",
      "name": "Border panel border 005",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-005.png",
-     "size": 164
+     "size": 164,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-006",
      "name": "Border panel border 006",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-006.png",
-     "size": 170
+     "size": 170,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-007",
      "name": "Border panel border 007",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-007.png",
-     "size": 169
+     "size": 169,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-008",
      "name": "Border panel border 008",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-008.png",
-     "size": 148
+     "size": 148,
+     "border": [
+      8,
+      8,
+      8,
+      8
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-009",
      "name": "Border panel border 009",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-009.png",
-     "size": 148
+     "size": 148,
+     "border": [
+      8,
+      8,
+      8,
+      8
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-010",
      "name": "Border panel border 010",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-010.png",
-     "size": 154
+     "size": 154,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-011",
      "name": "Border panel border 011",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-011.png",
-     "size": 162
+     "size": 162,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-012",
      "name": "Border panel border 012",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-012.png",
-     "size": 162
+     "size": 162,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-013",
      "name": "Border panel border 013",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-013.png",
-     "size": 162
+     "size": 162,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-014",
      "name": "Border panel border 014",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-014.png",
-     "size": 164
+     "size": 164,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-015",
      "name": "Border panel border 015",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-015.png",
-     "size": 129
+     "size": 129,
+     "border": [
+      2,
+      2,
+      2,
+      2
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-016",
      "name": "Border panel border 016",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-016.png",
-     "size": 166
+     "size": 166,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-017",
      "name": "Border panel border 017",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-017.png",
-     "size": 166
+     "size": 166,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-018",
      "name": "Border panel border 018",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-018.png",
-     "size": 174
+     "size": 174,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-019",
      "name": "Border panel border 019",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-019.png",
-     "size": 171
+     "size": 171,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-020",
      "name": "Border panel border 020",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-020.png",
-     "size": 176
+     "size": 176,
+     "border": [
+      20,
+      20,
+      20,
+      20
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-021",
      "name": "Border panel border 021",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-021.png",
-     "size": 180
+     "size": 180,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-022",
      "name": "Border panel border 022",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-022.png",
-     "size": 168
+     "size": 168,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-023",
      "name": "Border panel border 023",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-023.png",
-     "size": 166
+     "size": 166,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-024",
      "name": "Border panel border 024",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-024.png",
-     "size": 182
+     "size": 182,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-025",
      "name": "Border panel border 025",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-025.png",
-     "size": 204
+     "size": 204,
+     "border": [
+      20,
+      20,
+      20,
+      20
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-026",
      "name": "Border panel border 026",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-026.png",
-     "size": 185
+     "size": 185,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-027",
      "name": "Border panel border 027",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-027.png",
-     "size": 175
+     "size": 175,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-028",
      "name": "Border panel border 028",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-028.png",
-     "size": 154
+     "size": 154,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-029",
      "name": "Border panel border 029",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-029.png",
-     "size": 182
+     "size": 182,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-030",
      "name": "Border panel border 030",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-030.png",
-     "size": 163
+     "size": 163,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/border/panel-border-031",
      "name": "Border panel border 031",
      "group": "Border",
      "file": "packs/images/fantasy-ui-borders/border/panel-border-031.png",
-     "size": 169
+     "size": 169,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/divider-fade/divider-fade-000",
@@ -17341,672 +17533,1248 @@
      "name": "Panel panel 000",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-000.png",
-     "size": 173
+     "size": 173,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-001",
      "name": "Panel panel 001",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-001.png",
-     "size": 160
+     "size": 160,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-002",
      "name": "Panel panel 002",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-002.png",
-     "size": 183
+     "size": 183,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-003",
      "name": "Panel panel 003",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-003.png",
-     "size": 169
+     "size": 169,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-004",
      "name": "Panel panel 004",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-004.png",
-     "size": 141
+     "size": 141,
+     "border": [
+      8,
+      8,
+      8,
+      8
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-005",
      "name": "Panel panel 005",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-005.png",
-     "size": 180
+     "size": 180,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-006",
      "name": "Panel panel 006",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-006.png",
-     "size": 186
+     "size": 186,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-007",
      "name": "Panel panel 007",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-007.png",
-     "size": 183
+     "size": 183,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-008",
      "name": "Panel panel 008",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-008.png",
-     "size": 180
+     "size": 180,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-009",
      "name": "Panel panel 009",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-009.png",
-     "size": 162
+     "size": 162,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-010",
      "name": "Panel panel 010",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-010.png",
-     "size": 168
+     "size": 168,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-011",
      "name": "Panel panel 011",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-011.png",
-     "size": 177
+     "size": 177,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-012",
      "name": "Panel panel 012",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-012.png",
-     "size": 176
+     "size": 176,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-013",
      "name": "Panel panel 013",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-013.png",
-     "size": 173
+     "size": 173,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-014",
      "name": "Panel panel 014",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-014.png",
-     "size": 174
+     "size": 174,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-015",
      "name": "Panel panel 015",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-015.png",
-     "size": 137
+     "size": 137,
+     "border": [
+      4,
+      4,
+      4,
+      4
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-016",
      "name": "Panel panel 016",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-016.png",
-     "size": 183
+     "size": 183,
+     "border": [
+      18,
+      18,
+      18,
+      18
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-017",
      "name": "Panel panel 017",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-017.png",
-     "size": 180
+     "size": 180,
+     "border": [
+      18,
+      18,
+      18,
+      18
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-018",
      "name": "Panel panel 018",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-018.png",
-     "size": 185
+     "size": 185,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-019",
      "name": "Panel panel 019",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-019.png",
-     "size": 185
+     "size": 185,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-020",
      "name": "Panel panel 020",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-020.png",
-     "size": 184
+     "size": 184,
+     "border": [
+      22,
+      22,
+      22,
+      22
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-021",
      "name": "Panel panel 021",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-021.png",
-     "size": 192
+     "size": 192,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-022",
      "name": "Panel panel 022",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-022.png",
-     "size": 182
+     "size": 182,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-023",
      "name": "Panel panel 023",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-023.png",
-     "size": 180
+     "size": 180,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-024",
      "name": "Panel panel 024",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-024.png",
-     "size": 188
+     "size": 188,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-025",
      "name": "Panel panel 025",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-025.png",
-     "size": 208
+     "size": 208,
+     "border": [
+      22,
+      22,
+      22,
+      22
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-026",
      "name": "Panel panel 026",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-026.png",
-     "size": 195
+     "size": 195,
+     "border": [
+      18,
+      18,
+      18,
+      18
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-027",
      "name": "Panel panel 027",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-027.png",
-     "size": 185
+     "size": 185,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-028",
      "name": "Panel panel 028",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-028.png",
-     "size": 168
+     "size": 168,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-029",
      "name": "Panel panel 029",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-029.png",
-     "size": 188
+     "size": 188,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-030",
      "name": "Panel panel 030",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-030.png",
-     "size": 172
+     "size": 172,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/panel/panel-031",
      "name": "Panel panel 031",
      "group": "Panel",
      "file": "packs/images/fantasy-ui-borders/panel/panel-031.png",
-     "size": 187
+     "size": 187,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-000",
      "name": "Transparent border panel transparent border 000",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-000.png",
-     "size": 187
+     "size": 187,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-001",
      "name": "Transparent border panel transparent border 001",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-001.png",
-     "size": 172
+     "size": 172,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-002",
      "name": "Transparent border panel transparent border 002",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-002.png",
-     "size": 192
+     "size": 192,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-003",
      "name": "Transparent border panel transparent border 003",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-003.png",
-     "size": 175
+     "size": 175,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-004",
      "name": "Transparent border panel transparent border 004",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-004.png",
-     "size": 154
+     "size": 154,
+     "border": [
+      8,
+      8,
+      8,
+      8
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-005",
      "name": "Transparent border panel transparent border 005",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-005.png",
-     "size": 191
+     "size": 191,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-006",
      "name": "Transparent border panel transparent border 006",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-006.png",
-     "size": 195
+     "size": 195,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-007",
      "name": "Transparent border panel transparent border 007",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-007.png",
-     "size": 196
+     "size": 196,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-008",
      "name": "Transparent border panel transparent border 008",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-008.png",
-     "size": 196
+     "size": 196,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-009",
      "name": "Transparent border panel transparent border 009",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-009.png",
-     "size": 177
+     "size": 177,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-010",
      "name": "Transparent border panel transparent border 010",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-010.png",
-     "size": 182
+     "size": 182,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-011",
      "name": "Transparent border panel transparent border 011",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-011.png",
-     "size": 190
+     "size": 190,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-012",
      "name": "Transparent border panel transparent border 012",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-012.png",
-     "size": 190
+     "size": 190,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-013",
      "name": "Transparent border panel transparent border 013",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-013.png",
-     "size": 184
+     "size": 184,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-014",
      "name": "Transparent border panel transparent border 014",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-014.png",
-     "size": 183
+     "size": 183,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-015",
      "name": "Transparent border panel transparent border 015",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-015.png",
-     "size": 141
+     "size": 141,
+     "border": [
+      4,
+      4,
+      4,
+      4
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-016",
      "name": "Transparent border panel transparent border 016",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-016.png",
-     "size": 204
+     "size": 204,
+     "border": [
+      18,
+      18,
+      18,
+      18
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-017",
      "name": "Transparent border panel transparent border 017",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-017.png",
-     "size": 200
+     "size": 200,
+     "border": [
+      18,
+      18,
+      18,
+      18
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-018",
      "name": "Transparent border panel transparent border 018",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-018.png",
-     "size": 194
+     "size": 194,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-019",
      "name": "Transparent border panel transparent border 019",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-019.png",
-     "size": 193
+     "size": 193,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-020",
      "name": "Transparent border panel transparent border 020",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-020.png",
-     "size": 201
+     "size": 201,
+     "border": [
+      22,
+      22,
+      22,
+      22
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-021",
      "name": "Transparent border panel transparent border 021",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-021.png",
-     "size": 199
+     "size": 199,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-022",
      "name": "Transparent border panel transparent border 022",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-022.png",
-     "size": 194
+     "size": 194,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-023",
      "name": "Transparent border panel transparent border 023",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-023.png",
-     "size": 188
+     "size": 188,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-024",
      "name": "Transparent border panel transparent border 024",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-024.png",
-     "size": 189
+     "size": 189,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-025",
      "name": "Transparent border panel transparent border 025",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-025.png",
-     "size": 225
+     "size": 225,
+     "border": [
+      22,
+      22,
+      22,
+      22
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-026",
      "name": "Transparent border panel transparent border 026",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-026.png",
-     "size": 213
+     "size": 213,
+     "border": [
+      18,
+      18,
+      18,
+      18
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-027",
      "name": "Transparent border panel transparent border 027",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-027.png",
-     "size": 197
+     "size": 197,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-028",
      "name": "Transparent border panel transparent border 028",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-028.png",
-     "size": 182
+     "size": 182,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-029",
      "name": "Transparent border panel transparent border 029",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-029.png",
-     "size": 201
+     "size": 201,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-030",
      "name": "Transparent border panel transparent border 030",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-030.png",
-     "size": 186
+     "size": 186,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-border/panel-transparent-border-031",
      "name": "Transparent border panel transparent border 031",
      "group": "Transparent border",
      "file": "packs/images/fantasy-ui-borders/transparent-border/panel-transparent-border-031.png",
-     "size": 200
+     "size": 200,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-000",
      "name": "Transparent center panel transparent center 000",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-000.png",
-     "size": 186
+     "size": 186,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-001",
      "name": "Transparent center panel transparent center 001",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-001.png",
-     "size": 173
+     "size": 173,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-002",
      "name": "Transparent center panel transparent center 002",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-002.png",
-     "size": 192
+     "size": 192,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-003",
      "name": "Transparent center panel transparent center 003",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-003.png",
-     "size": 180
+     "size": 180,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-004",
      "name": "Transparent center panel transparent center 004",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-004.png",
-     "size": 155
+     "size": 155,
+     "border": [
+      8,
+      8,
+      8,
+      8
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-005",
      "name": "Transparent center panel transparent center 005",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-005.png",
-     "size": 191
+     "size": 191,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-006",
      "name": "Transparent center panel transparent center 006",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-006.png",
-     "size": 196
+     "size": 196,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-007",
      "name": "Transparent center panel transparent center 007",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-007.png",
-     "size": 196
+     "size": 196,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-008",
      "name": "Transparent center panel transparent center 008",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-008.png",
-     "size": 197
+     "size": 197,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-009",
      "name": "Transparent center panel transparent center 009",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-009.png",
-     "size": 177
+     "size": 177,
+     "border": [
+      10,
+      10,
+      10,
+      10
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-010",
      "name": "Transparent center panel transparent center 010",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-010.png",
-     "size": 182
+     "size": 182,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-011",
      "name": "Transparent center panel transparent center 011",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-011.png",
-     "size": 190
+     "size": 190,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-012",
      "name": "Transparent center panel transparent center 012",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-012.png",
-     "size": 190
+     "size": 190,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-013",
      "name": "Transparent center panel transparent center 013",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-013.png",
-     "size": 184
+     "size": 184,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-014",
      "name": "Transparent center panel transparent center 014",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-014.png",
-     "size": 183
+     "size": 183,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-015",
      "name": "Transparent center panel transparent center 015",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-015.png",
-     "size": 141
+     "size": 141,
+     "border": [
+      4,
+      4,
+      4,
+      4
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-016",
      "name": "Transparent center panel transparent center 016",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-016.png",
-     "size": 203
+     "size": 203,
+     "border": [
+      18,
+      18,
+      18,
+      18
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-017",
      "name": "Transparent center panel transparent center 017",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-017.png",
-     "size": 201
+     "size": 201,
+     "border": [
+      18,
+      18,
+      18,
+      18
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-018",
      "name": "Transparent center panel transparent center 018",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-018.png",
-     "size": 194
+     "size": 194,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-019",
      "name": "Transparent center panel transparent center 019",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-019.png",
-     "size": 196
+     "size": 196,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-020",
      "name": "Transparent center panel transparent center 020",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-020.png",
-     "size": 201
+     "size": 201,
+     "border": [
+      22,
+      22,
+      22,
+      22
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-021",
      "name": "Transparent center panel transparent center 021",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-021.png",
-     "size": 198
+     "size": 198,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-022",
      "name": "Transparent center panel transparent center 022",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-022.png",
-     "size": 197
+     "size": 197,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-023",
      "name": "Transparent center panel transparent center 023",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-023.png",
-     "size": 189
+     "size": 189,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-024",
      "name": "Transparent center panel transparent center 024",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-024.png",
-     "size": 194
+     "size": 194,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-025",
      "name": "Transparent center panel transparent center 025",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-025.png",
-     "size": 225
+     "size": 225,
+     "border": [
+      22,
+      22,
+      22,
+      22
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-026",
      "name": "Transparent center panel transparent center 026",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-026.png",
-     "size": 213
+     "size": 213,
+     "border": [
+      18,
+      18,
+      18,
+      18
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-027",
      "name": "Transparent center panel transparent center 027",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-027.png",
-     "size": 197
+     "size": 197,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-028",
      "name": "Transparent center panel transparent center 028",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-028.png",
-     "size": 182
+     "size": 182,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-029",
      "name": "Transparent center panel transparent center 029",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-029.png",
-     "size": 200
+     "size": 200,
+     "border": [
+      16,
+      16,
+      16,
+      16
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-030",
      "name": "Transparent center panel transparent center 030",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-030.png",
-     "size": 186
+     "size": 186,
+     "border": [
+      12,
+      12,
+      12,
+      12
+     ]
     },
     {
      "id": "fantasy-ui-borders/transparent-center/panel-transparent-center-031",
      "name": "Transparent center panel transparent center 031",
      "group": "Transparent center",
      "file": "packs/images/fantasy-ui-borders/transparent-center/panel-transparent-center-031.png",
-     "size": 200
+     "size": 200,
+     "border": [
+      14,
+      14,
+      14,
+      14
+     ]
     }
    ]
   }
